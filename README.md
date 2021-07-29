@@ -1,5 +1,4 @@
 # EE2703
-The programs I have written as a part of the Applied Programming Lab course in my fourth semester
 The assignments contain a report written in LaTeX summarising the observations made from the assignments.
 The summary of all the assignments done:
 - Assignment 2: Implementation of citcuits using Modified Nodal Analysis
